@@ -7,7 +7,4 @@ title = "My Book"
 build-dir = "docs"
 
 [output.html]
-additional-css = ["theme/mermaid.css"]
-head-html = "theme/head.html"
-
-
+additional-js = ["src/mermaid-init.js"]
