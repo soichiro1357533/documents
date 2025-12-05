@@ -8,6 +8,6 @@ build-dir = "docs"
 
 [output.html]
 additional-css = ["theme/mermaid.css"]
-additional-js = ["theme/mermaid.js"]
+head-html = "theme/head.html"
 
 
